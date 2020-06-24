@@ -1,8 +1,8 @@
 {
-  "name": "KeychainItemWrapper-Copy",
+  "name": "KeychainItemWrapper-Copy-osx",
   "version": "1.2.0",
   "summary": "KeychainItemWrapper Copy",
-  "description": "KeychainItemWrapper 的副本，用于国内无法正常访问Gits的开发者。",
+  "description": "KeychainItemWrapper 的副本，用于国内无法正常访问Gits的开发者。-去除iOS限制",
   "homepage": "https://github.com/fmricky/KeychainItemWrapper-Copy",
   "license": {
     "type": "Copyright",
@@ -11,11 +11,8 @@
   "authors": {
     "fmricky": "https://github.com/fmricky/KeychainItemWrapper-Copy"
   },
-  "platforms": {
-    "ios": "3.0"
-  },
   "source": {
-    "git": "https://github.com/fmricky/KeychainItemWrapper-Copy.git",
+    "git": "https://github.com/justLoveJ/KeychainItemWrapper-Copy.git",
     "tag": "1.2.0"
   },
   "source_files": "KeychainItemWrapper.*",
